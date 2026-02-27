@@ -1,1 +1,39 @@
-*{background-color: aqua}
+p {
+    background-color: aqua;
+
+    color: crimson;
+}
+
+ol{
+    background-color: darkgreen;
+
+    color: goldenrod;
+}
+
+
+li {
+    background-color: violet;
+    color: rebeccapurple;
+}
+
+a {
+    background-color:gold;
+
+    color: blueviolet
+}
+
+#destinations {
+    background-color: blue;
+
+    color: yellow
+}
+
+h1 {
+    font-size: 3rem;
+
+    color: hotpink;
+}
+
+ * {
+    background-color:aquamarine;
+ }
