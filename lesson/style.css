@@ -1,13 +1,6 @@
 p {
     background-color: aqua;
-
     color: crimson;
-}
-
-ol{
-    background-color: darkgreen;
-
-    color: goldenrod;
 }
 
 
@@ -17,23 +10,20 @@ li {
 }
 
 a {
-    background-color:gold;
-
-    color: blueviolet
+    background-color:blueviolet;
+    color: gold;
+    text-decoration: rgb(0, 183, 255) wavy underline;
 }
 
 #destinations {
     background-color: blue;
-
     color: yellow
 }
 
 h1 {
     font-size: 3rem;
-
     color: hotpink;
 }
-
  * {
     background-color:aquamarine;
  }
