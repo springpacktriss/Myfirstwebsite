@@ -1,12 +1,15 @@
 p {
     background-color: aqua;
     color: crimson;
+    font-family: lucida handwriting;
 }
 
 
 li {
     background-color: violet;
     color: rebeccapurple;
+    font-family: cursive;
+    font-weight: bold;
 }
 
 a {
@@ -23,6 +26,9 @@ a {
 h1 {
     font-size: 3rem;
     color: hotpink;
+    font-family: cursive;
+    font-size: 6rem;
+    font-weight: bold;
 }
  * {
     background-color:aquamarine;
