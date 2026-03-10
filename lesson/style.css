@@ -24,12 +24,14 @@ a {
 }
 
 h1 {
-    font-size: 3rem;
-    color: hotpink;
-    font-family: cursive;
+    color: #EB00FA;
     font-size: 6rem;
-    font-weight: bold;
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
- * {
+
+
+* {
     background-color:aquamarine;
  }
